@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Phonology"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "29b32028-314d-55a5-e5a8-7770ba8ab63a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Linguistic Theory: Laboratory Phonology",
+  "course_description": "The goal of this course is to prepare you to engage in experimental investigations of questions related to linguistic theory, focusing on phonetics and phonology.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.910",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments with Examples",
+    "Media Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
